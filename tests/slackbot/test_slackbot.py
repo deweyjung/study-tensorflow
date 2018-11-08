@@ -12,7 +12,7 @@ slack.chat.post_message('#study-tensorflow', 'test message for new channel')
 
 
 # instantiate Slack client
-# slack_client = SlackClient('xoxb-470902892800-471037595441-Ym2bPtmNOnd6CJCgE9gsufzv')
+# slack_client = SlackClient('')
 # # starterbot's user ID in Slack: value is assigned after the bot starts up
 # starterbot_id = None
 #
